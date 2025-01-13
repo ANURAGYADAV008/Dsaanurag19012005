@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0451-sort-characters-by-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0451-sort-characters-by-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Heap (Priority Queue)
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0451-sort-characters-by-frequency) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
