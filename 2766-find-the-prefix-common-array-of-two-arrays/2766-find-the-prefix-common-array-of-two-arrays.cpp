@@ -13,6 +13,7 @@ public:
                 for(int k=0;k<=i;k++){
                     if(A[j]==B[k]){
                         count++;
+                        break;
                     }
                 }
             }
