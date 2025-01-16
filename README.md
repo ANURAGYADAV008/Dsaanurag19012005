@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0062-unique-paths) |
 | [1236-n-th-tribonacci-number](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1236-n-th-tribonacci-number) |
 ## Backtracking
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0062-unique-paths) |
 | [1236-n-th-tribonacci-number](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
