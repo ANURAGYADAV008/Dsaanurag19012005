@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0011-container-with-most-water) |
 | [0063-unique-paths-ii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0139-word-break) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0011-container-with-most-water) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Sorting
 |  |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0139-word-break) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
