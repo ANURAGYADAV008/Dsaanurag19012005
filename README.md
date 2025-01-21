@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2792-neighboring-bitwise-xor) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Stack
 |  |
 | ------- |
