@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0496-next-greater-element-i) |
 | [0611-valid-triangle-number](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0611-valid-triangle-number) |
+| [0991-array-of-doubled-pairs](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0991-array-of-doubled-pairs) |
 | [1813-maximum-erasure-value](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1813-maximum-erasure-value) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0611-valid-triangle-number) |
+| [0991-array-of-doubled-pairs](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0991-array-of-doubled-pairs) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0451-sort-characters-by-frequency) |
 | [0611-valid-triangle-number](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0611-valid-triangle-number) |
+| [0991-array-of-doubled-pairs](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0991-array-of-doubled-pairs) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0496-next-greater-element-i) |
+| [0991-array-of-doubled-pairs](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0991-array-of-doubled-pairs) |
 | [1813-maximum-erasure-value](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1813-maximum-erasure-value) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2117-find-original-array-from-doubled-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
