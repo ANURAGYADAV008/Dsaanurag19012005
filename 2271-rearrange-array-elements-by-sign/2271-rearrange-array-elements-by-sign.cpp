@@ -11,13 +11,15 @@ public:
             x.push_back(nums[i]);
          }
       }
-      vector<int>ans;
       int l=0;
+      int i=0;
       while(l<v.size()){
-       ans.push_back(v[l]);
-       ans.push_back(x[l]);
+       nums[i]=v[l];
+       i++;
+       nums[i]=x[l];
+       i++;
        l++;
       }
-      return ans;
+      return nums;
     }
 };
