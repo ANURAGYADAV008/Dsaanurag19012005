@@ -178,21 +178,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0112-path-sum) |
 | [0733-flood-fill](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0112-path-sum) |
 | [0733-flood-fill](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0733-flood-fill) |
 ## Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
