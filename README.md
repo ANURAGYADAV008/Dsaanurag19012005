@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0169-majority-element) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0139-word-break) |
 | [0451-sort-characters-by-frequency](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0451-sort-characters-by-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0079-word-search) |
 ## Math
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0733-flood-fill) |
 ## Trie
 |  |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0112-path-sum) |
