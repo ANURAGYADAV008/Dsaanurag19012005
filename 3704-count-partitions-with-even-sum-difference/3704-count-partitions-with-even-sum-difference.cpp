@@ -15,7 +15,7 @@ public:
     int cnt=0;
 
     for(int i=1; i<n; i++){
-        ;
+        
         if((prefix[i-1]-suffix[i])%2==0){
             cnt++;
         }
