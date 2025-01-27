@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2792-neighboring-bitwise-xor) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Greedy
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0062-unique-paths) |
 | [1236-n-th-tribonacci-number](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1236-n-th-tribonacci-number) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Memoization
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Stack
 |  |
