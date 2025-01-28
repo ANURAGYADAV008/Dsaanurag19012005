@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2792-neighboring-bitwise-xor) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0733-flood-fill) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Trie
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0733-flood-fill) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0733-flood-fill) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -237,4 +241,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0200-number-of-islands) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
