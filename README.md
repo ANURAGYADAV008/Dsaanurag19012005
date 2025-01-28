@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0200-number-of-islands) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0463-island-perimeter](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0496-next-greater-element-i) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0733-flood-fill) |
 ## Trie
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0113-path-sum-ii) |
+| [0200-number-of-islands](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0200-number-of-islands) |
 | [0437-path-sum-iii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0733-flood-fill) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0733-flood-fill) |
 ## Tree
@@ -229,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0098-validate-binary-search-tree) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
