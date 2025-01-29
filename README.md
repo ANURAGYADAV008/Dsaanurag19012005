@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0200-number-of-islands) |
 | [0437-path-sum-iii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0463-island-perimeter) |
+| [0684-redundant-connection](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0733-flood-fill) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0463-island-perimeter) |
+| [0684-redundant-connection](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0733-flood-fill) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Tree
@@ -241,5 +243,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0684-redundant-connection) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Graph
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
