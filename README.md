@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0496-next-greater-element-i) |
 | [0611-valid-triangle-number](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0611-valid-triangle-number) |
+| [0695-max-area-of-island](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0733-flood-fill) |
 | [0991-array-of-doubled-pairs](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0991-array-of-doubled-pairs) |
 | [1813-maximum-erasure-value](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1813-maximum-erasure-value) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0733-flood-fill) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Trie
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0463-island-perimeter) |
 | [0684-redundant-connection](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0733-flood-fill) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0463-island-perimeter) |
 | [0684-redundant-connection](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0733-flood-fill) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Tree
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0695-max-area-of-island) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
