@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0200-number-of-islands) |
+| [0300-longest-increasing-subsequence](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0463-island-perimeter](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0496-next-greater-element-i) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0139-word-break) |
+| [0300-longest-increasing-subsequence](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0300-longest-increasing-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1236-n-th-tribonacci-number) |
 ## Backtracking
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0611-valid-triangle-number) |
 ## Prefix Sum
