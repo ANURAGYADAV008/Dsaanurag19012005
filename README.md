@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0386-lexicographical-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0463-island-perimeter) |
 | [0684-redundant-connection](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0684-redundant-connection) |
