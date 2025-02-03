@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0733-flood-fill) |
 | [0991-array-of-doubled-pairs](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0991-array-of-doubled-pairs) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2117-find-original-array-from-doubled-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0496-next-greater-element-i) |
 | [0991-array-of-doubled-pairs](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0991-array-of-doubled-pairs) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1813-maximum-erasure-value) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2117-find-original-array-from-doubled-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1813-maximum-erasure-value) |
 ## Bit Manipulation
 |  |
@@ -177,9 +180,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0611-valid-triangle-number) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3731-sum-of-variable-length-subarrays) |
