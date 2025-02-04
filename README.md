@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2271-rearrange-array-elements-by-sign) |
