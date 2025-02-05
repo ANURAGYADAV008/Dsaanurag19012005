@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0451-sort-characters-by-frequency) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Hash Table
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-array-of-doubled-pairs](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0991-array-of-doubled-pairs) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1813-maximum-erasure-value) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2117-find-original-array-from-doubled-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0139-word-break) |
 | [0451-sort-characters-by-frequency](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0451-sort-characters-by-frequency) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Heap (Priority Queue)
 |  |
