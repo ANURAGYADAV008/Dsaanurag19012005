@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0733-flood-fill) |
 | [0991-array-of-doubled-pairs](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0991-array-of-doubled-pairs) |
+| [1364-tuple-with-same-product](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1364-tuple-with-same-product) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0451-sort-characters-by-frequency) |
+| [1364-tuple-with-same-product](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0496-next-greater-element-i) |
 | [0991-array-of-doubled-pairs](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0991-array-of-doubled-pairs) |
+| [1364-tuple-with-same-product](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1364-tuple-with-same-product) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
