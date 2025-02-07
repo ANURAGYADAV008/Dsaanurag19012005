@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Greedy
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2117-find-original-array-from-doubled-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Depth-First Search
 |  |
 | ------- |
