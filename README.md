@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0064-minimum-path-sum) |
+| [0096-unique-binary-search-trees](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0300-longest-increasing-subsequence) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0096-unique-binary-search-trees) |
 | [1236-n-th-tribonacci-number](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1236-n-th-tribonacci-number) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Memoization
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Union Find
