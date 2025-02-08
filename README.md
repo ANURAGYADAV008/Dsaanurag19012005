@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0096-unique-binary-search-trees) |
+| [0172-factorial-trailing-zeroes](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0172-factorial-trailing-zeroes) |
 | [1236-n-th-tribonacci-number](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1236-n-th-tribonacci-number) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Memoization
