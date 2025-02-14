@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0139-word-break) |
 | [0451-sort-characters-by-frequency](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0451-sort-characters-by-frequency) |
+| [0874-backspace-string-compare](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0874-backspace-string-compare) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3447-clear-digits) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0611-valid-triangle-number) |
+| [0874-backspace-string-compare](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0874-backspace-string-compare) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0496-next-greater-element-i) |
+| [0874-backspace-string-compare](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3447-clear-digits) |
 ## Monotonic Stack
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
