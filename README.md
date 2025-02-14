@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0874-backspace-string-compare) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2470-removing-stars-from-a-string](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Heap (Priority Queue)
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2470-removing-stars-from-a-string](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2470-removing-stars-from-a-string](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2470-removing-stars-from-a-string) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3447-clear-digits) |
 ## Depth-First Search
