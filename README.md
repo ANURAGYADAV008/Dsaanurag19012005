@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0113-path-sum-ii) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Math
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0172-factorial-trailing-zeroes) |
 | [1236-n-th-tribonacci-number](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1236-n-th-tribonacci-number) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Memoization
 |  |
