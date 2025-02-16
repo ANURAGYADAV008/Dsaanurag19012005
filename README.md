@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0733-flood-fill) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0437-path-sum-iii) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0437-path-sum-iii) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
