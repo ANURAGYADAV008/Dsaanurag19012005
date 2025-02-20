@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0075-sort-colors) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0090-subsets-ii) |
