@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0300-longest-increasing-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1236-n-th-tribonacci-number) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 ## Backtracking
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0172-factorial-trailing-zeroes) |
 | [1236-n-th-tribonacci-number](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1236-n-th-tribonacci-number) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Memoization
