@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0463-island-perimeter](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0496-next-greater-element-i) |
 | [0611-valid-triangle-number](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0611-valid-triangle-number) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0496-next-greater-element-i) |
 | [0991-array-of-doubled-pairs](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0991-array-of-doubled-pairs) |
