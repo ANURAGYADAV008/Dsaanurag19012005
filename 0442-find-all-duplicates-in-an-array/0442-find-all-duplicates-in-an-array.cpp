@@ -4,10 +4,8 @@ public:
     int n = nums.size();
     vector<int> freq(n + 1, 0); // Use vector and initialize with 0
 
-    for (int num : nums) {
-        if (num <= n) { // Prevent out-of-bounds access
+    for (int num : nums) {// Prevent out-of-bounds access
             freq[num]++;
-        }
     }
 
     vector<int> ans;
