@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0202-happy-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/1236-n-th-tribonacci-number) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0611-valid-triangle-number) |
 | [0874-backspace-string-compare](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0874-backspace-string-compare) |
