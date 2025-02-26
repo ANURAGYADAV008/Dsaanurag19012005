@@ -10,13 +10,11 @@ public:
         seen.insert(n);
         int ans=0;
         while(n>0){
-           int num=n%10;
+            int num=n%10;
             ans+= num*num;
             n=n/10;
-
         }
         n=ans;
-        
     }
     return true;
     }
