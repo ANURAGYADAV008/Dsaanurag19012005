@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2551-apply-operations-to-an-array](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2551-apply-operations-to-an-array) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2792-neighboring-bitwise-xor) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0611-valid-triangle-number) |
 | [0874-backspace-string-compare](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/0874-backspace-string-compare) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2551-apply-operations-to-an-array](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2470-removing-stars-from-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/2551-apply-operations-to-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/ANURAGYADAV008/Dsaanurag19012005/tree/master/3447-clear-digits) |
 ## Depth-First Search
